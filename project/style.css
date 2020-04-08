@@ -1,5 +1,6 @@
 body {
-    background-color: rgba(74, 84, 97, 0.7);
+    /* background-color: rgba(74, 84, 97, 0.7);*/
+    background-color: #636AEC;
 }
 
 img {
@@ -30,7 +31,8 @@ h6 {
     width: 50%;
 }
 
-.home {
+.home,
+p {
     font-family: montserrat, sans-serif;
     font-weight: 100;
     font-style: normal;
@@ -38,6 +40,17 @@ h6 {
     margin: auto;
     margin-left: 70px;
     margin-right: 50px;
+}
+
+.form {
+    font-family: montserrat, sans-serif;
+    font-weight: 100;
+    font-style: normal;
+    color: white;
+    margin: auto;
+    margin-left: 550px;
+    margin-top: 20px;
+    margin-bottom: 10px;
 }
 
 h4 {
